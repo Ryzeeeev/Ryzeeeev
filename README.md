@@ -16,4 +16,6 @@
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Ryzeeeev&show_icons=true&theme=dark&hide_border=true&custom_title=GitHub%20Stats:&include_all_commits=true&hide=issues,contribs)
 
 <h1 align="center"> | My Social | <h1>
-<a target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/779069754203045948.png" alt="Discord" /></a>
+ <p align="center">
+  <a target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/779069754203045948.png" alt="Discord" /></a>
+  </p>
