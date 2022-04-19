@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryzeeee</h1>
 
  <p align="center">
-<a href="https://discords.com/bio/p/Ryzeeeeeeeeee" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-1/779069754203045948.png" alt="Discord" /></a>
+<a href="https://discords.com/bio/p/Ryzeeeeeeeeee" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/779069754203045948.png" alt="Discord" /></a>
 </p>
 
 - 🔭 I’m currently working on **lua, html, css, javascript,**
