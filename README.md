@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryzeeee</h1>
+
+ <p align="center">
+<a href="https://discords.com/bio/p/Ryzeeeeeeeeee" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-1/470972839302791198.png" alt="Discord" /></a>
+</p>
+
 - 🔭 I’m currently working on **lua, html, css, javascript,**
 
 - 🌱 I’m currently learning **javascript**
@@ -15,9 +20,9 @@
  </p>
 
 <br>
-<center> 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Ryzeeeev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ryzeeee's Github Stats"> 
-<center>
+
 
 
 </br>
