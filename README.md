@@ -9,7 +9,7 @@
   
 <p align="center">
   <a href="https://github.com/Ryzeeeev?tab=repositories">
-<img  src="https://github-readme-stats.vercel.app/api?username=Ryzeeeev&hide=issues&show_icons=true&theme=vue" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Ryzeeeev&hide=issues&show_icons=true&theme=vue">
+<img  src="https://github-readme-stats.vercel.app/api?username=Ryzeeeev&hide=issues&show_icons=true&theme=omni" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Ryzeeeev&hide=issues&show_icons=true&theme=omni">
     </a>
 </p>
   
