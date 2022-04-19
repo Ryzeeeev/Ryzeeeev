@@ -13,9 +13,6 @@
     </a>
 </p>
   
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryzeeeev&theme=onedark"/>
-</p>
 
 
 <h1 align="center"> | My Social | <h1>
