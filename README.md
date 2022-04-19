@@ -11,6 +11,11 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=Ryzeeeev&hide=issues&show_icons=true&theme=onedark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Ryzeeeev&hide=issues&show_icons=true&theme=onedark">
     </a>
 </p>
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ryzeeeev&repo=ShVehMenu&theme=onedark"/>
+</a>
+</p>
+
 
 <h1 align="center"> | My Social | <h1>
  <p align="center">
