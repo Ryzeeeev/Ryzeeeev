@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryzeee</h1>
-<h3 align="center">Welcome GitHub : Ryzeeeeeeeeee#1047</h3>
+<h3 align="center">Welcome GitHub</h3>
+<h3 align="center">My Discord: Ryzeeeeeeeeee#1047</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
