@@ -13,9 +13,3 @@
     </a>
 </p>
   
-
-
-<h1 align="center"> | My Social | <h1>
- <p align="center">
-  <a target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/779069754203045948.png" alt="Discord" /></a>
-  </p>
